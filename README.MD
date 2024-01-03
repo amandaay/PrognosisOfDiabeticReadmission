@@ -53,6 +53,6 @@ T. Kanstrén, “A Look at Precision, Recall, and F1-Score,” Medium, Oct. 31, 
 J. Brownlee, “SMOTE for Imbalanced Classification with Python,” Machine Learning Mastery, Jan. 16, 2020. https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
 
 ##### Authors: 
-So Man Amanda Au Yeung
-Yian Chen
-Chun Wei Tseng
+So Man Amanda Au Yeung  
+Yian Chen  
+Chun Wei Tseng  
